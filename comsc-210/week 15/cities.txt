@@ -1,0 +1,148 @@
+Eureka
+Coos Bay
+224
+------------------
+Eureka
+Grants Pass
+175
+------------------
+Eureka
+Redding
+154
+------------------
+Eureka
+San Francisco
+280
+------------------
+Redding
+Grants Pass
+177
+------------------
+Redding
+Klamath Falls
+142
+------------------
+Redding
+Lakeview
+200
+------------------
+Redding
+Reno
+201
+------------------
+Redding
+Sacramento
+162
+------------------
+Redding
+San Francisco
+215
+------------------
+Sacramento
+Reno
+136
+------------------
+Sacramento
+Bishop
+300
+------------------
+Sacramento
+Fresno
+162
+------------------
+Sacramento
+San Francisco
+93
+------------------
+San Francisco
+Fresno
+176
+------------------
+San Francisco
+Bakersfield
+280
+------------------
+San Francisco
+San Luis Obispo
+231
+------------------
+Bishop
+Reno
+204
+------------------
+Bishop
+Winnemucca
+322
+------------------
+Bishop
+Ely
+284
+------------------
+Bishop
+Las Vegas
+300
+------------------
+Bishop
+San Diego
+357
+------------------
+Bishop
+Los Angeles
+265
+------------------
+Fresno
+Bakersfield
+106
+------------------
+Fresno
+San Luis Obispo
+127
+------------------
+San Luis Obispo
+Los Angeles
+183
+------------------
+Bakersfield
+Barstow
+135
+------------------
+Bakersfield
+Los Angeles
+112
+------------------
+Barstow
+Needles
+155
+------------------
+Barstow
+San Diego
+178
+------------------
+Barstow
+Los Angeles
+129
+------------------
+Needles
+Blythe
+96
+------------------
+Los Angeles
+Blythe
+224
+------------------
+Los Angeles
+Yuma
+268
+------------------
+Los Angeles
+San Diego
+125
+------------------
+Blythe
+Yuma
+106
+------------------
+San Diego
+Yuma
+171
+------------------
